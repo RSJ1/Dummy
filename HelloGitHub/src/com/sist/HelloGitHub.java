@@ -10,6 +10,7 @@ public class HelloGitHub {
 		System.out.println("conflict");
 		System.out.println("fetched");
 		System.out.println("pushed");
+		System.out.println("pull");
 
 	}
 
